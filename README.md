@@ -5,7 +5,7 @@ This package contains the source code for the following paper: Attention Model E
 
 We implement AMEN on Python.
 
-Description: train.py: get the classification result of backbone on each scale and test the different training settings.
+Description: train-AMEN.py: get the classification result of backbone on each scale and test the different training settings.
 
 cam_save: get the attention map on each scale.
 
